@@ -1,0 +1,8 @@
+[package]
+name = "sha3_test"
+version = "0.1.0"
+authors = ["Adeeb Ahmed <adeeb.ahmed@target.com>"]
+edition = "2018"
+
+[dependencies]
+rust-crypto = "^0.2"
